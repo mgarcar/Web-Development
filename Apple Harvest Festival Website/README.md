@@ -1,3 +1,3 @@
 # Project 3
 
-**Submission Instructions:** Stage, commit, and push your changed files. Then complete the submission form.
+In this project I created  a static website for the Apple Harvest Festival in Ithaca (NY). 
